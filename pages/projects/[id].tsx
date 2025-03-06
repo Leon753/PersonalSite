@@ -5,14 +5,24 @@ import Head from 'next/head';
 // Dummy data for demonstration.
 const projectData: Record<string, { title: string; description: string; link: string }> = {
   '1': {
-    title: 'Project One',
+    title: 'Tile Heights',
     description: 'Detailed information about project one.',
-    link: 'https://github.com/yourusername/project-one',
+    link: 'https://tileheights.com',
   },
   '2': {
-    title: 'Project Two',
+    title: 'Note Taker',
     description: 'Detailed information about project two.',
-    link: 'https://github.com/yourusername/project-two',
+    link: 'https://github.com/Leon753/AINotes',
+  },
+  '3': {
+    title: 'Job Hunt Tool',
+    description: 'Detailed information about project two.',
+    link: 'https://github.com/Leon753/JobHuntTool',
+  },
+  '4': {
+    title: 'BEAR',
+    description: 'Detailed information about project two.',
+    link: 'https://www.ocf.berkeley.edu/~rwhittaker/',
   },
 };
 

@@ -3,9 +3,10 @@ import Head from 'next/head';
 import Link from 'next/link';
 
 const projects = [
-  { id: '1', title: 'Project One', description: 'A brief overview of project one.' },
-  { id: '2', title: 'Project Two', description: 'A brief overview of project two.' },
-  // Add additional projects as needed.
+  { id: '1', title: 'Tile Heights', description: 'I\'m building a front-facing e-commerce site and an admin page to manage the website' },
+  { id: '2', title: 'Note Taker', description: 'I\'m building a notetaking application that will take notes of an uploaded audio file' },
+  { id: '3', title: 'JobHuntTool', description: 'This project started from a Hackathon and the goal of the tool is to help job seekers' },
+  { id: '4', title: 'BEAR', description: 'Unmanned surface vehicle project at UC Berkeley. Showcased at Neutral Buoyancy Laboratory at NASA' },
 ];
 
 export default function Projects() {
