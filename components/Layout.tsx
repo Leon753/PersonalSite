@@ -11,8 +11,6 @@ export default function Layout({ children }: { children: ReactNode }) {
           <div className="flex items-center">
             <Link href="/" className="ml-4">Home</Link>
             <Link href="/projects" className="ml-4">Projects</Link>
-            <Link href="/now" className="ml-4">Now</Link>
-            <Link href="/contact" className="ml-4">Contact</Link>
           </div>
           <div className="flex items-center">
             <a
