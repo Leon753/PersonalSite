@@ -4,7 +4,7 @@ import Link from 'next/link';
 
 const projects = [
   { id: '1', title: 'Job Hunt Tool', description: 'A job hunting tool that helps people organize and prepare for interviews' },
-  { id: '2', title: 'Fit Check', description: 'Building a personal styling and social fashion app! I\m super excited about it and having lots of fun building the app.' },
+  { id: '2', title: 'Fyts', description: 'Building a personal styling and social fashion app! I\m super excited about it and having lots of fun building the app.' },
   { id: '3', title: 'AI-Powered Lecture Note-Taking', description: 'A notetaking application that will take notes of an uploaded audio file' },
   { id: '4', title: 'Tile Heights', description: 'I\'m building a front-facing e-commerce site and an admin page to manage the website' },
   { id: '5', title: 'BEAR', description: 'Unmanned surface vehicle project at UC Berkeley. Showcased at Neutral Buoyancy Laboratory at NASA' },

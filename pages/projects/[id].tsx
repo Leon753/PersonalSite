@@ -64,7 +64,7 @@ JobHunter is a Chrome extension built by a team of three innovators, designed to
     site: 'View on Github'
   },
   '2': {
-    title: 'Fit Check',
+    title: 'Fyts',
     description: 'I\'m building a personal styling and social fashion app that helps users organize their wardrobe, receive AI-driven outfit recommendations based on their body type, weather, and events, and connect with others through a style-focused social platform.',
     link: 'https://www.ocf.berkeley.edu/~rwhittaker/',
     site: 'View Website'
