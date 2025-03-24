@@ -106,10 +106,10 @@ export default function ProjectDetail() {
           <ReactMarkdown
             remarkPlugins={[remarkGfm]}
             components={{
-              h3: ({ node, ...props }) => <h3 className="text-2xl font-bold mt-6" {...props} />,
-              p: ({ node, ...props }) => <p className="mb-4" {...props} />,
-              ul: ({ node, ...props }) => <ul className="list-disc ml-5 mb-4" {...props} />,
-              li: ({ node, ...props }) => <li className="mb-1" {...props} />,
+              h3: ({ ...props }) => <h3 className="text-2xl font-bold mt-6" {...props} />,
+              p: ({ ...props }) => <p className="mb-4" {...props} />,
+              ul: ({ ...props }) => <ul className="list-disc ml-5 mb-4" {...props} />,
+              li: ({ ...props }) => <li className="mb-1" {...props} />,
             }}
           >
             {project.description}

@@ -17,7 +17,7 @@ const Home: NextPage = () => {
       <div className="min-h-screen bg-gray-100">
         {/* Hero Section */}
         <section className="flex flex-col items-center justify-center text-center py-20 text-white">
-          <h1 className="text-5xl font-bold mb-4 text-gray-800">Hi, I'm Leon</h1>
+          <h1 className="text-5xl font-bold mb-4 text-gray-800">Hi, I&apos;m Leon</h1>
           <p className="text-xl mb-6 text-gray-800">
             Full-Stack Developer & ML Engineer | Passionate about Scalable System Design
           </p>
@@ -41,7 +41,7 @@ const Home: NextPage = () => {
           <h2 className="text-3xl font-bold text-gray-800  mb-4">About Me</h2>
           <div className="text-lg text-gray-800 leading-relaxed space-y-4">
             <p>
-              I'm a passionate developer who thrives on tackling complex challenges
+              I&apos;m a passionate developer who thrives on tackling complex challenges
               and delivering innovative solutions. I graduated in 2022 from UC Berkeley
               with a Bachelor’s in Electrical Engineering and Computer Science (EECS).
               During my time at Berkeley, I served as an undergraduate researcher in the
