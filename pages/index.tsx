@@ -49,12 +49,12 @@ const Home: NextPage = () => {
               students.
             </p>
             <p>
-              During a rigorous 9-month internship at a fast-paced startup, I immersed
-              myself in algorithm-intensive data transformations, developed automated
-              model evaluation software for A/B testing and MLOps, and trained and optimized
-              deep NLP models for diverse tasks. Wearing multiple hats, I also built robust,
-              cascading interfaces across microservices, solidifying my expertise in writing
-              production-ready code.
+            During a challenging nine-month internship at a fast-paced startup, I 
+            performed algorithm-intensive data transformations and developed automated 
+            model evaluation software for A/B testing and MLOps. I also trained and 
+            optimized deep NLP models across various tasks, and built robust cascading 
+            interfaces across microservices—all of which sharpened my ability to deliver 
+            production-ready code in a dynamic environment.
             </p>
             <p>
               Since graduation, I have spent the past two years developing automation tooling
