@@ -8,7 +8,7 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Your Name | Portfolio</title>
+        <title>Leon&apos;s Portfolio</title>
         <meta
           name="description"
           content="Showcasing my software and hackathon projects."
