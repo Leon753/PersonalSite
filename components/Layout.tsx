@@ -30,7 +30,7 @@ export default function Layout({ children }: { children: ReactNode }) {
               GitHub
             </a>
             <a
-              href="/LeonsBackendResume_2025.pdf"
+              href="/LeonsFullStackResume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="ml-4"
