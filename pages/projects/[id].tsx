@@ -42,8 +42,8 @@ AI-Notes is an intelligent note-taking tool designed to help users efficiently c
 - **Remove S3 Storage:** Eliminate the need to store audio files, as transcription occurs in real-time.  
 - **Add Recording Feature:** Allows users to actively record live and then upload.
 - **Implement SSO (Single Sign-On):** Provide users with authentication options to ensure persistent access to their saved notes.`,
-    link: 'https://ainotes-frontend.vercel.app/',
-    site: 'View Website'
+    link: 'https://github.com/Leon753/AINotes',
+    site: 'View Github'
   },
   '1': {
     title: 'Job Hunt Tool',
