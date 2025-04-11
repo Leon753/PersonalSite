@@ -65,7 +65,7 @@ JobHunter is a Chrome extension built by a team of three innovators, designed to
   },
   '2': {
     title: 'Fyts',
-    description: 'I\'m building a personal styling and social fashion app that helps users organize their wardrobe, receive AI-driven outfit recommendations based on their body type, weather, and events, and connect with others through a style-focused social platform.',
+    description: 'One project I’m proud of is Fyts, a mobile-first personal styling app I’ve been building on the side. The idea came from watching my girlfriend struggle with planning outfits and wanting a better way to visualize and organize her wardrobe. Most apps in this space felt clunky, pushy with pricing, and overloaded with features that kind of worked—but none of them focused on simply solving the core problem. I set out to create something clean, personal, and actually useful. I built the full-stack system myself using React Native with Expo for the frontend and FastAPI with Firebase Auth and Firestore for the backend. The core feature is a digital wardrobe where users can upload photos of their clothes, tag them, and easily browse and organize their closet. I’m currently working on a calendar feature to help users track past outfits and plan future ones, along with a personal stylist component that suggests outfit combinations based on tags and wardrobe data. The project has been a great opportunity to deepen my mobile and backend skills, especially around image management, UI simplicity, and feature prioritization. But more than that, it’s been rewarding to build something that genuinely solves a real-world problem—and do it with care and intention.',
     link: 'https://leonkliu.vercel.app/projects/2',
     site: 'View Website'
   },
